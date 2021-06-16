@@ -105,11 +105,14 @@ th {
   color:#444;
 }
 
+#large-image {
+    width: 500px;
+    height: auto
+}
 
 img {
-//   max-width:100%;
-  width: 400px;
-  height: auto
+  max-width:100%;
+  
 }
 
 kbd {
